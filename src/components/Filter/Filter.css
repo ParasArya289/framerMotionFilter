@@ -1,0 +1,14 @@
+.filterBtn {
+  background-color: transparent;
+  border: 2px solid blue;
+  width: 6rem;
+  margin: 12px 12px 50px 12px;
+  padding: 20px;
+  border-radius: 30px;
+}
+.filterBtn:hover {
+  background-color: rgb(160, 160, 192);
+}
+.filterBtn.active {
+  background-color: blue;
+}
